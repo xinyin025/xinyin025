@@ -3,3 +3,4 @@
 ### Hello World 👋
 - 🔭 I’m currently working on C/C++/Java
 - 🌱 I’m currently learning Linux
+- 📖 I’m currently reading 《Good Good Study》
